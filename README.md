@@ -1,1 +1,35 @@
-# spotify_history
+Spotify platform... but with the look of a data analyst! 📊
+
+In this project, I transformed Spotify's listening data into an analytics-rich interactive dashboard using #Excel and #Power BI #DAX, with the aim of detecting auditory patterns and understanding listening behavior more deeply.
+
+the most important thing included in the analysis:
+
+📌 Top 10: list of the 10 most listened songs in terms of time.
+
+🎤 The 10 most listened artists.
+
+📈 Listening trends across the months with an interactive graph.
+
+🕒 Distribute listening to the Times of the day: morning, noon, evening, night.
+
+📅 The most listened days of the week (graph of columns).
+
+💻 Comparison of platforms used: web player, Mobile, TV.
+
+🎯 Skip rate for each artist or album and analysis of the reasons for the termination of playback.
+
+✅ The ratio of completed songs versus skipped ones.
+
+📊 Performance indicators (KPIs) in the dashboard:
+
+Total listening time.
+
+The number of unique songs played.
+
+The number of unique artists.
+
+The average listening time for each song.
+
+the result : an interactive dashboard that makes it easier for any user or company to understand their listening habits, improve the user experience, and make data-driven decisions.
+
+linkedin: (https://www.linkedin.com/feed/update/urn:li:activity:7361880868384104449/)
